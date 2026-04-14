@@ -1,4 +1,4 @@
-.body{
+body{
     background:#f3f3f3;
     color:#333;
     width:100%;
@@ -73,7 +73,7 @@
 .undecor{
 	text-decoration:none;
 }
-.footeri{
+.footer{
 	width:90%; 
 	margin:auto;
 	height:40px;
